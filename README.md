@@ -22,9 +22,9 @@
 </p>
 
 
-  <h3> 👋 Hello Geeks! A little about me... </h3>
-<p> A brazilian chemist-turned-hacker exploring the digital wilderness.
-Currently pursuing my Bachelor's in IT 🎓 while sharpening my skills in Python, Linux, and SOC tools. Passionate about open-source, cybersecurity, and homelab tinkering – because breaking things (ethically) is the best way to learn. I specialize in SOC tools (Kibana, Snort, Suricata), Python scripting, Web Applications (Javascript/HTML/CSS) and data analysis (SQL), with a knack for dissecting vulnerabilities and hardening systems. Currently leveling up my security skills on TryHackMe and expanding my toolkit on infrastructure and programming languages to tackle real-world risks.</p>
+  <h3 align="center"> 👋 Hello Geeks! A little about me... </h3>
+<p align="center"> A brazilian chemist-turned-hacker exploring the digital wilderness. </p>
+<p align="center">Currently pursuing my Bachelor's in IT 🎓 while sharpening my skills in Python, Linux, and SOC tools. Passionate about open-source, cybersecurity, and homelab tinkering – because breaking things (ethically) is the best way to learn. I specialize in SOC tools (Kibana, Snort, Suricata), Python scripting, Web Applications (Javascript/HTML/CSS) and data analysis (SQL), with a knack for dissecting vulnerabilities and hardening systems. Currently leveling up my security skills on TryHackMe and expanding my toolkit on infrastructure and programming languages to tackle real-world risks.</p>
 
 
 
@@ -43,7 +43,7 @@ Currently pursuing my Bachelor's in IT 🎓 while sharpening my skills in Python
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=hexditto&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" /> <!-- GitHub Stats -->
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexditto&show_icons=true&theme=gruvbox&hide_border=true&layout=compact&langs_count=6" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexditto&show_icons=true&theme=gruvbox&hide_border=true&layout=compact&langs_count=6" />
   </div> <!-- Top Languages -->
 </p> 
 <p>Note: This does not indicate my skill level or anything like that, it's merely a GitHub metric to determine which languages have the most code on GitHub.</p>
