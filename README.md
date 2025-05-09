@@ -1,33 +1,51 @@
-## Hello, I'm Henrique!
-
-.
-- 🌱 I’m currently learning Cybersecurity and Programming Languages (Python, JS, C)
-- 📫 How to reach me: henriquediasbene@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've never broke a bone and I'm a chemist (I prefer the alchemist label)
--->
-
+<!-- Header section -->
 <p align="center">
   <a href="https://github.com/hexditto">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Henrique Benedicto" /></a>
+    <img src="https://img.shields.io/badge/Henrique_Benedicto-98971a?style=for-the-badge&logo=github&logoColor=white&fontFamily=Hack" alt="Henrique Benedicto" />
+  </a>
 </p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%Student;DevOps%Enthusiast;TryHackMe%Apprentice;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;DevOps+Aspirant;InfoSec+Enthusiast;TryHackMe+Apprentice;Always+learning+new+things&font=Hack&center=true&width=440&height=45&color=98971a&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
+
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/henriquediasbene/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/henriquediasbene/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/ySAmiEs.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://tryhackme.com/p/ditt0"><img width="32px" alt="TryHackMe" title="TryHackMe" src="https://assets.tryhackme.com/img/favicon.png"/></a>
 </p>
 
 
- 
+  <h3> 👋 Hello Geeks! A little about me... </h3>
+<p> A brazilian chemist-turned-hacker exploring the digital wilderness.
+Currently pursuing my Bachelor's in IT 🎓 while sharpening my skills in Python, Linux, and SOC tools. Passionate about open-source, cybersecurity, and homelab tinkering – because breaking things (ethically) is the best way to learn. I specialize in SOC tools (Kibana, Snort, Suricata), Python scripting, Web Applications (Javascript/HTML/CSS) and data analysis (SQL), with a knack for dissecting vulnerabilities and hardening systems. Currently leveling up my security skills on TryHackMe and expanding my toolkit on infrastructure and programming languages to tackle real-world risks.</p>
+
+
+
+🔧 Current Obsessions:
+
+    🐍 Writing Python scripts to automate my life
+    🔐 Solving TryHackMe rooms
+    🐧 (Trying to) Customizing my Arch Linux setup
+    🎮 Playing Games when I should be studying
+    💻 Turning caffeine into cybersecurity knowledge, one exploit at a time.
+    🔐 Exploring how DevOps practices can enhance security (DevSecOps)  
+  
+
+
+<!-- GitHub Stats section -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hexditto&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" /> <!-- Statsbar -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexditto&show_icons=true&theme=gruvbox" alt="abhisheknaiidu" /> <!-- Top Languages -->
+<p>Note: This does not indicate my skill level or anything like that, it's merely a GitHub metric to determine which languages have the most code on GitHub.</p>
+
+
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
