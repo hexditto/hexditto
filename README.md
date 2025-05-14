@@ -44,7 +44,7 @@
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=hexditto&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" /> <!-- GitHub Stats -->
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexditto&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" />
-  </div> <!-- Top Languages &langs_count=6"-->
+  </div> <!-- Top Languages -->
 </p> 
 <p>Note: This does not indicate my skill level or anything like that, it's merely a GitHub metric to determine which languages have the most code on GitHub.</p>
 
